@@ -1,7 +1,7 @@
 h1{
     color: chocolate;position: absolute;
-    top: 250px;
-    left: 200px;
+    top: 400px;
+    left: 400px;
     width: 100%;
 }
 h1 span {
@@ -17,3 +17,23 @@ img {
     width: 100%;
     filter: blur(2px);
 }
+.img2 {
+    width: 300px;
+    filter: initial;
+}
+h2{
+    color: deeppink;
+    font-size: 70px;
+}
+* {
+    background-color: bisque;
+}
+p {
+    color: brown;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
